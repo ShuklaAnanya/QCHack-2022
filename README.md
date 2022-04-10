@@ -71,4 +71,4 @@ button.on_click(on_button_clicked)
 widgets.VBox([player2_move, button, out])
 
 ## Sample Run
-![]()
+![](Sample Run.jpg)
